@@ -1,0 +1,28 @@
+1. What percentage of the lecture videos have you watched so far?
+
+week 1 = 100%
+week 2 = 60%
+
+2. What time, location, and duration have you scheduled to watch lecture videos?
+
+I usually watch the lecture videos on Monday, Thursdays, Friday and Saturday at my home,
+spending about 2 hours per session.
+
+3. What are you doing well in the subject so far that you will keep doing?
+
+I’m consistently completing the practical exercises and watching lectures, which has helped reinforce
+the concepts.
+
+4. What do you need to stop or change in your work for this subject overall so far?
+
+I need to stop procrastinating on assignments and start them earlier to avoid last-minute stress.
+
+5. What are you currently doing poorly for practicals in this subject that you will change?
+
+I tend to skip over some of the more challenging tasks. I plan to work through these instead of just focusing
+on the easier ones.
+
+6. What are you doing really well for practicals in this subject?
+
+I’m effectively applying the programming patterns taught in class to complete the practical tasks efficiently.
+I also review and test my code thoroughly to ensure it works correctly, which has improved my problem-solving skills.
