@@ -15,4 +15,4 @@ while state != "":
         print(state, "is", CODE_TO_NAME[state])
     else:
         print("Invalid short state")
-    state = input("Enter short state: ").upper()
+    state= input("Enter short state: ").upper()
